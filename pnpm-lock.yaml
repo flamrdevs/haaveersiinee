@@ -1,5 +1,10 @@
 lockfileVersion: '6.0'
 
+dependencies:
+  hvrsn:
+    specifier: ^0.2.0
+    version: 0.2.0
+
 devDependencies:
   '@commitlint/cli':
     specifier: ^17.6.3
@@ -2245,6 +2250,10 @@ packages:
     resolution: {integrity: sha512-nZXjEF2nbo7lIw3mgYjItAfgQXog3OjJogSbKa2CQIIvSGWcKgeJnQlNXip6NglNzYH45nSRiEVimMvYL8DDqQ==}
     engines: {node: '>=14.18.0'}
     dev: true
+
+  /hvrsn@0.2.0:
+    resolution: {integrity: sha512-/q/oxYo2kTzx58+iV062ZIRPkDMdqwj1/1WCs7+ziwiVg7nnQeZD/w3cfrGW8ROAl0NEfsZP6ReD+ih1mcvt7A==}
+    dev: false
 
   /iconv-lite@0.4.24:
     resolution: {integrity: sha512-v3MXnZAcvnywkTUEZomIActle7RXXeedOR31wwl7VlyoXO4Qi9arvSenNQWne1TcRwhCL1HwLI21bEqdpj8/rA==}
